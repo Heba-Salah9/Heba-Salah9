@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Heba+Salah;Computer+Science+Student;Future+AI+Engineer;Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Heba+Salah;Welcome+to+my+GitHub+Profile" />
 
 </div>
 # Hi 👋 I'm Heba Salah
