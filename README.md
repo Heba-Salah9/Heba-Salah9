@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Heba+Salah;Computer+Science+Student;Future+AI+Engineer;Welcome+to+my+GitHub+Profile" />
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
-
+</div>
 # Hi 👋 I'm Heba Salah
 
 💻 Computer Science Student
